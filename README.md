@@ -16,7 +16,7 @@ This desing includes the positioning of buttons on the page ,the colours as well
 Backend developer - Builds the logic behnd the system whinch includes communicating with the server as well
 as sucurity features such as authentication and authorization
 
-Project Managr - oversees the development of the system , assighs tasks to team members , updates team members on changes 
+Project Manager - oversees the development of the system , assighs tasks to team members , updates team members on changes 
 and ensures the product is delivered on time and within budget.
 
 Database Administrator - builds the database schema and ensures the security of the database.
