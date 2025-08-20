@@ -36,18 +36,49 @@ This application is scalable
 - Ensures the security of the database.
 
  ## Technology Stack
-- Django
+ - **Django**
    - promoting clean and pragmatic design.
    - Fascilitating scalability and security.
    - Encourages rapid design.
     
- - MySQL
+ - **MySQL**
    - Data management.
    - Scalability and performance.
    - Reliability and security.
      
- - GraphQL
+ - **GraphQL**
    - Precise data fetching.
    - Real time capabilities.
+     
+## Database Design
+
+  - **Users**
+     - username
+     - contact
+     - gender
+    
+  - **Properties**
+     - type
+     - location
+     - description
+   
+  - **Bookings**
+    - date
+    - id
+    - type
+      
+  - **Reviews**
+    - type
+    - date
+    - description
+    
+  - **Payment**
+    - type
+    - id
+    - date
+
+
+   Users can book multiple properties.
+   A property can have multiple reviews.
    
   
