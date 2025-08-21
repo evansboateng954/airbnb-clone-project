@@ -109,6 +109,18 @@ This application is scalable
 ### Authorisation
    Grants the users access and defines the scope within which they are allowed to operate.
    - This ensures data integrity is not compromised by unintended users.
+
+## CI/CD Pipeline
+CI/CD pipeline automate the process of software integration and deployment hence eradicating the headache of manual tasks with time constraint.
+Also minor changes can be tested in isoloation or integrated without having to wait to get the entire code running.
+It speeds up the process of software development helping development teams meet deadlines with quality softwares.
+
+### Tools
+- Docker
+- Travis CI
+- Jenkins
+- GitHub
+- GitLab
      
    
   
