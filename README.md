@@ -80,5 +80,20 @@ This application is scalable
 
    Users can book multiple properties.
    A property can have multiple reviews.
+
+   ## Feature Breakdown
+   - **user management**
+     Manages users and keep track of their interests in order to give them a better experience such as recommending restaurant that serves their favorite dishes or a property that alighs
+     with thier choices.
+   
+   - **property management**
+    Manages properties in order to match it to a certain user and also determine wheather a property is booked or not.
+
+   - **booking system**
+     Provides an interface for users to place an order for a car or rent a property.Users can also add a property to thier
+     watchlist and rent them in future.
+
+   - **Payment System**
+      Users make payments to thier bookings in order to fill thier slot, the booking is validated by generating a reciept of payment by the system . Users can also view the pricing of properties before booking.
    
   
