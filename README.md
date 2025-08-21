@@ -95,5 +95,20 @@ This application is scalable
 
    - **Payment System**
       Users make payments to thier bookings in order to fill thier slot, the booking is validated by generating a reciept of payment by the system . Users can also view the pricing of properties before booking.
+
+## API Security
+
+### Rate limiting
+   controlling the rate of requests to a server by tracking the number of request from a specific client within a defined time frame.
+   - This prevents DOS attack.
+   - manages server resources efficently
+     
+### Authentication
+   Requires the users to prove thier identity by providing some requested informations
+   - This ensures confidentiality that data is assessed by intended users.
+### Authorisation
+   Grants the users access and defines the scope within which they are allowed to operate.
+   - This ensures data integrity is not compromised by unintended users.
+     
    
   
